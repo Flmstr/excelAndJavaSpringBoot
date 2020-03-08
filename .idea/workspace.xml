@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b7b9007-9ea1-4ece-9790-d9761f0e0d05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yqd1nbKZU4mFDEH4EeYJasmIFw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b7b9007-9ea1-4ece-9790-d9761f0e0d05" name="Default Changelist" comment="" />
+      <created>1583673846286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583673846286</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="682" y="258" key="FileChooserDialogImpl" timestamp="1583674162774">
+      <screen x="0" y="0" width="1804" height="1008" />
+    </state>
+    <state x="682" y="258" key="FileChooserDialogImpl/0.0.1804.1008@0.0.1804.1008" timestamp="1583674162774" />
+    <state x="403" y="146" key="SettingsEditor" timestamp="1583674166402">
+      <screen x="0" y="0" width="1804" height="1008" />
+    </state>
+    <state x="403" y="146" key="SettingsEditor/0.0.1804.1008@0.0.1804.1008" timestamp="1583674166402" />
+    <state x="603" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1583673929662">
+      <screen x="0" y="0" width="1804" height="1008" />
+    </state>
+    <state x="603" y="328" key="com.intellij.ide.util.TipDialog/0.0.1804.1008@0.0.1804.1008" timestamp="1583673929662" />
+  </component>
+</project>
