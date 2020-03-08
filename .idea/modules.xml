@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/excelandJava.iml" filepath="$PROJECT_DIR$/excelandJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/excelAndJavaSpringBoot.iml" filepath="$PROJECT_DIR$/.idea/excelAndJavaSpringBoot.iml" />
     </modules>
   </component>
 </project>
